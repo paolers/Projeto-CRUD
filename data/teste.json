@@ -1,0 +1,57 @@
+[
+    {
+        "UUID": "70c1a341-beea-40da-a1fb-10cebef47f9b",
+        "valor": 123.14,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "f27a9019-d3ef-42db-976f-7d3461e7a3ac",
+        "valor": 560.21,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "9c45fcef-261f-4d8f-ba51-ba17eb914c7c",
+        "valor": 300.0,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "50895645-0179-45d4-baa6-195ddf90e1c7",
+        "valor": 400.0,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "69ff0c5d-66d2-4e54-a64e-75eb33d8198b",
+        "valor": 654.27,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "bb548dff-0616-45eb-acc8-b32c12cb647c",
+        "valor": 615.95,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "bee16a5d-2c51-4d2c-a771-35c58ea2c68c",
+        "valor": 158.34,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "ae7a0eeb-57fb-497e-a737-e44b447dffad",
+        "valor": 191.02,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "3ddc3ba4-2c2b-4bf3-963d-6f915e17d57d",
+        "valor": 242.7,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "12c156c6-010e-4ce7-b21a-0b8853cda838",
+        "valor": 31.05,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "312b5e32-6b0d-47fe-b7f1-b85e0bcbac3f",
+        "valor": 100.0,
+        "categoria": "investimentos"
+    }
+]
